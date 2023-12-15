@@ -1,0 +1,6 @@
+@SccaBlockChain_HostAddress = http://localhost:5228
+
+GET {{SccaBlockChain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
